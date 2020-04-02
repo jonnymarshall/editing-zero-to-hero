@@ -22,7 +22,7 @@ export default class Home extends Component {
       this.setState({course_modules: result})
     })
     .catch((data) => {
-      debugger
+      // debugger
     })
   }
 
