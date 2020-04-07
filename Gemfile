@@ -34,6 +34,7 @@ gem 'popper_js', '~> 1.16'
 gem 'sassc-rails', '~> 2.1', '>= 2.1.2'
 # gem 'bootstrap-sass', '~> 3.4', '>= 3.1.0.0'
 # gem 'bootstrap-sass-rails', '~> 3.1'
+gem 'jquery-rails'
 
 
 
