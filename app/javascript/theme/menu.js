@@ -1,4 +1,5 @@
-/**
+document.addEventListener("DOMContentLoaded", function(event) { 
+  /**
  * main.js
  * http://www.codrops.com
  *
@@ -9,9 +10,9 @@
  * http://www.codrops.com
  */
 (function() {
-
+  
 	var bodyEl = document.body,
-		content = document.querySelector( '.content-wrap' ),
+    content = document.querySelector( '.content-wrap' ),
 		openbtn = document.getElementById( 'open-button' ),
 		closebtn = document.getElementById( 'close-button' ),
 		isOpen = false;
@@ -40,3 +41,4 @@
 	init();
 
 })();
+});
