@@ -8,7 +8,7 @@ export default class Navbar extends Component {
     return(
       <nav className="navbar navbar-expand-md fixed-top scrolling-navbar bg-white">
         <div className="container">          
-          <a className="navbar-brand" href="index.html"><span className="lni-bulb"></span>ESSENCE</a>
+          <a className="navbar-brand" href="index.html"><span className="lni-video"></span>Editing: Zero To Hero</a>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i className="lni-menu"></i>
           </button>
